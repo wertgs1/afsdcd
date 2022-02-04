@@ -1,5 +1,5 @@
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/stdelosvk/mmmmmm.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wertgs1/afsdcd.git)
 
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
@@ -10,15 +10,15 @@
 
 请求`/`，返回3D元素周期表
 
-![image](https://cdn.jsdelivr.net/gh/stdelosvk/mmmmmm/doc/1.png)
+![image](https://cdn.jsdelivr.net/gh/wertgs1/afsdcd/doc/1.png)
 
 请求`/speedtest/`，html5-speedtest测速页面
 
-![image](https://cdn.jsdelivr.net/gh/stdelosvk/mmmmmm/doc/2.png)
+![image](https://cdn.jsdelivr.net/gh/wertgs1/afsdcd/doc/2.png)
 
 请求`/test/`，文件下载速度测试
 
-![image](https://cdn.jsdelivr.net/gh/stdelosvk/mmmmmm/doc/3.png)
+![image](https://cdn.jsdelivr.net/gh/wertgs1/afsdcd/doc/3.png)
 
 请求`/ray`（可配置）v2ray websocket路径
 
